@@ -14,7 +14,7 @@ Instructions to run:
    spyder
 2) Open the main script - main.py
 3) Run the script
-4) #Output: image.png
+4) Output: image.png
 
 Data source: 
 1) CBS Statline - dataset 84918ENG. Accessed via https://opendata.cbs.nl/#/CBS/nl/navigatieScherm/thema --> Energie --> Hernieuwbare energie --> Totaalbeeld --> Vermeden verbruik fossiele energie en emissie CO2
